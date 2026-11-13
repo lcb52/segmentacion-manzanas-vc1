@@ -1,0 +1,482 @@
+[
+  {
+    "escala": 1.0,
+    "metodo": "ninguno",
+    "gamma": 0.7,
+    "id": "e1.0_ninguno_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "ninguno",
+    "gamma": 1.0,
+    "id": "e1.0_ninguno_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "ninguno",
+    "gamma": 1.5,
+    "id": "e1.0_ninguno_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 0.7,
+    "id": "e1.0_gaussiano_k3_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 1.0,
+    "id": "e1.0_gaussiano_k3_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 1.5,
+    "id": "e1.0_gaussiano_k3_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 0.7,
+    "id": "e1.0_gaussiano_k5_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 1.0,
+    "id": "e1.0_gaussiano_k5_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 1.5,
+    "id": "e1.0_gaussiano_k5_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 0.7,
+    "id": "e1.0_gaussiano_k7_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 1.0,
+    "id": "e1.0_gaussiano_k7_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 1.5,
+    "id": "e1.0_gaussiano_k7_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 0.7,
+    "id": "e1.0_mediana_k3_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 1.0,
+    "id": "e1.0_mediana_k3_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 1.5,
+    "id": "e1.0_mediana_k3_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 0.7,
+    "id": "e1.0_mediana_k5_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 1.0,
+    "id": "e1.0_mediana_k5_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 1.5,
+    "id": "e1.0_mediana_k5_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 0.7,
+    "id": "e1.0_mediana_k7_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 1.0,
+    "id": "e1.0_mediana_k7_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 1.5,
+    "id": "e1.0_mediana_k7_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 0.7,
+    "id": "e1.0_bilat_d5_s25_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 1.0,
+    "id": "e1.0_bilat_d5_s25_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 1.5,
+    "id": "e1.0_bilat_d5_s25_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 0.7,
+    "id": "e1.0_bilat_d5_s75_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 1.0,
+    "id": "e1.0_bilat_d5_s75_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 1.5,
+    "id": "e1.0_bilat_d5_s75_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 0.7,
+    "id": "e1.0_bilat_d9_s25_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 1.0,
+    "id": "e1.0_bilat_d9_s25_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 1.5,
+    "id": "e1.0_bilat_d9_s25_g1.5"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 0.7,
+    "id": "e1.0_bilat_d9_s75_g0.7"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 1.0,
+    "id": "e1.0_bilat_d9_s75_g1.0"
+  },
+  {
+    "escala": 1.0,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 1.5,
+    "id": "e1.0_bilat_d9_s75_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "ninguno",
+    "gamma": 0.7,
+    "id": "e0.5_ninguno_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "ninguno",
+    "gamma": 1.0,
+    "id": "e0.5_ninguno_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "ninguno",
+    "gamma": 1.5,
+    "id": "e0.5_ninguno_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 0.7,
+    "id": "e0.5_gaussiano_k3_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 1.0,
+    "id": "e0.5_gaussiano_k3_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 3,
+    "gamma": 1.5,
+    "id": "e0.5_gaussiano_k3_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 0.7,
+    "id": "e0.5_gaussiano_k5_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 1.0,
+    "id": "e0.5_gaussiano_k5_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 5,
+    "gamma": 1.5,
+    "id": "e0.5_gaussiano_k5_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 0.7,
+    "id": "e0.5_gaussiano_k7_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 1.0,
+    "id": "e0.5_gaussiano_k7_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "gaussiano",
+    "k": 7,
+    "gamma": 1.5,
+    "id": "e0.5_gaussiano_k7_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 0.7,
+    "id": "e0.5_mediana_k3_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 1.0,
+    "id": "e0.5_mediana_k3_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 3,
+    "gamma": 1.5,
+    "id": "e0.5_mediana_k3_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 0.7,
+    "id": "e0.5_mediana_k5_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 1.0,
+    "id": "e0.5_mediana_k5_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 5,
+    "gamma": 1.5,
+    "id": "e0.5_mediana_k5_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 0.7,
+    "id": "e0.5_mediana_k7_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 1.0,
+    "id": "e0.5_mediana_k7_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "mediana",
+    "k": 7,
+    "gamma": 1.5,
+    "id": "e0.5_mediana_k7_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 0.7,
+    "id": "e0.5_bilat_d5_s25_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 1.0,
+    "id": "e0.5_bilat_d5_s25_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 25,
+    "gamma": 1.5,
+    "id": "e0.5_bilat_d5_s25_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 0.7,
+    "id": "e0.5_bilat_d5_s75_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 1.0,
+    "id": "e0.5_bilat_d5_s75_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 5,
+    "sigma": 75,
+    "gamma": 1.5,
+    "id": "e0.5_bilat_d5_s75_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 0.7,
+    "id": "e0.5_bilat_d9_s25_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 1.0,
+    "id": "e0.5_bilat_d9_s25_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 25,
+    "gamma": 1.5,
+    "id": "e0.5_bilat_d9_s25_g1.5"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 0.7,
+    "id": "e0.5_bilat_d9_s75_g0.7"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 1.0,
+    "id": "e0.5_bilat_d9_s75_g1.0"
+  },
+  {
+    "escala": 0.5,
+    "metodo": "bilateral",
+    "d": 9,
+    "sigma": 75,
+    "gamma": 1.5,
+    "id": "e0.5_bilat_d9_s75_g1.5"
+  }
+]
